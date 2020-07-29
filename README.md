@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**one-sunny/one-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨**one-sunny**✨ is a web developer working for a startup in Seoul.🌃
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on `web portfolio request site`
+- 🌱 I’m currently learning `react`
+<!--I’m looking to collaborate on ...-->
+<!--I’m looking for help with ...-->
+- 💬 Ask me about `php,html,css,js`
+<!-- 📫 How to reach me: instagram : @o_ne_snnny-->
+<!-- 😄 Pronouns: ...-->
+- ⚡ Fun fact: I have two cats named Charles and Navi.🐾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✔️ Most recent project : coronanotbeer.com - daily update report 
